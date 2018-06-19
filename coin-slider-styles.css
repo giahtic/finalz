@@ -4,7 +4,7 @@
 */
 
 
-.coin-slider { overflow: hidden; zoom: 1; position: center; margin-left: 80px; margin-right: 80px;}
+.coin-slider { overflow: hidden; zoom: 1; position: relative; margin-left: 90px; margin-right: 80px;}
 .coin-slider a{ text-decoration: none; outline: none; border: none; }
 
 .cs-buttons { font-size: 0px; padding: 10px; float: left; }
