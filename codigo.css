@@ -374,6 +374,8 @@ form{
 }
 #coin-slider{
   position: center;
+  margin-left: 80px;
+  margin-right: 80px;
 }
 
 div.footer{
